@@ -1,0 +1,26 @@
+body{
+    background-color: #AAD6EC;
+    color: white;
+
+}
+
+
+header{
+    height: 50px;
+    
+}
+
+
+.navbar-brand{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.container{
+    border: 2px solid #5B5B5B;
+    border-left: transparent;
+    border-right: transparent;
+}

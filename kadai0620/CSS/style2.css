@@ -1,0 +1,18 @@
+body{
+    background-color: #AAD6EC;
+    color: white;
+
+}
+
+
+header{
+    height: 50px;
+}
+
+.naver-brand{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5px;
+}
+
